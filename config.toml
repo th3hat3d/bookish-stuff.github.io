@@ -1,0 +1,5 @@
+baseURL = "https://bookworm.deadandbeef.com/"
+languageCode = "en-us"
+title = "th3hat3d's bookworm blog!"
+[[module.imports]]
+ path = "github.com/halogenica/beautifulhugo"

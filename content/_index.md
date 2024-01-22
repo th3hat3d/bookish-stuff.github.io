@@ -1,0 +1,1 @@
+Hello, fellow visitor (and probable bookworm)! This site is just a place for me to post bookish content whenever I feel like it. Enjoy your time here with whatever my bookworm brain itches to write about.

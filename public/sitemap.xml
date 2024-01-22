@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bookworm.deadandbeef.com/</loc>
+    <lastmod>2024-01-22T18:26:59-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bookworm.deadandbeef.com/posts/book-review-unhinged/</loc>
+    <lastmod>2024-01-22T18:26:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookworm.deadandbeef.com/posts/</loc>
+    <lastmod>2024-01-22T18:26:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bookworm.deadandbeef.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bookworm.deadandbeef.com/tags/</loc>
+  </url>
+  
+</urlset>
