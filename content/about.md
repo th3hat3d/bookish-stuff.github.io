@@ -13,3 +13,4 @@ Just some nerdy kid from the States. A budding opportunist, I take any opportuni
 - Anything nerdy!
 
 This blog was made as a way for me to write about my bookish hobby and being a bookworm, and share it with other readers and whoever else happens to be interested. Put simply, it's my personal literary outlet. Enjoy your time here.
+If you'd like to see my other projects or blogs, my GitHub is [here](https://github.com/th3hat3d)
