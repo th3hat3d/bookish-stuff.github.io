@@ -2,7 +2,7 @@ title = "th3hat3d's bookworm blog!"
 languageCode = "en-us"
 baseurl = "https://bookworm.deadandbeef.com"
 paginate = 20
-
+googleAnalytics = "G-E95H1PGXM9"
 [module]
   [[module.imports]]
     path = "github.com/manid2/hugo-xterm"
