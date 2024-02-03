@@ -10,7 +10,7 @@ paginate = 20
 [params]
   centerTheme = true
   showMenuItems = true
-  favicon = "/images/xterm.png"
+  favicon = "/favicon.ico"
   showBreadCrumbs = true
   toc = true
   copyrightUserText = "th3hat3d"
