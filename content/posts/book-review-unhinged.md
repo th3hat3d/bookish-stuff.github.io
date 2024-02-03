@@ -3,6 +3,7 @@ title: "Book Review - Unhinged"
 date: 2024-01-22T18:26:59-05:00
 draft: false
 author: "th3hat3d"
+tags: ["book review", "romance"]
 ---
 
 Hello, fellow bookworms! This is my first site on this bookish blog of mine, and what better way to start it off than with a book review? But not just any old book. It’s a romance about a girl and… a door. Yeah, it’s weird. There are spoilers in this review, but the book itself isn’t that long (you should read it if you can bear). 
