@@ -1,6 +1,7 @@
 ---
-title: "Play Review and Analysis - English Made Simple"
-date: 2024-02-05T03:30:45-05:00
+title: "Play Review - English Made Simple"
+date: 2024-02-04T22:47:59-05:00
+draft: false
 author: "th3hat3d"
 tags: ["play review", "comedy"]
 ---
