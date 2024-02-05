@@ -1,7 +1,6 @@
 ---
 title: "Book Review - Unhinged"
 date: 2024-01-22T18:26:59-05:00
-draft: false
 author: "th3hat3d"
 tags: ["book review", "romance"]
 ---
